@@ -1,0 +1,19 @@
+/* Vetsi rozestupy v odrazkovych a cislovanych seznamech */
+
+body {
+  /* mezera mezi jednotlivymi polozkami seznamu (vychozi 0.075em) */
+  --list-spacing: 0.4em;
+}
+
+/* radkovani uvnitr polozky, kdyz se text zalomi na vic radku */
+.markdown-rendered li,
+.markdown-source-view.mod-cm6 .HyperMD-list-line {
+  line-height: 1.7;
+}
+
+/* volitelne: odsazeni vnorenych urovni
+.markdown-rendered ul ul,
+.markdown-rendered ol ol {
+  margin-top: 0.3em;
+}
+*/
