@@ -1,4 +1,5 @@
- - **Jmenovitá kapacita** - hodnota kapacity kondenzátorů s danou toleranci
+Vychází z [Coulombova zákona](_SKOLA/fyzika/coulombuv-zakon)
+- **Jmenovitá kapacita** - hodnota kapacity kondenzátorů s danou toleranci
 - **Tolerance** - v (%), maximální odchylka skutečné kapacity
 - **Izolační odpor** - stejnosměrný odpor mezi vývody kondenzátoru
 - **Provozní napětí** - velikost připojeného napětí
