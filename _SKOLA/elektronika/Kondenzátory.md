@@ -1,4 +1,4 @@
-- vychází z fyziky: [[coulombuv-zakon|Coulombův zákon]] → [[elektricke-pole|Elektrické pole]] → [[El. potenciál a el. napětí]]
+- vychází z fyziky: [[coulombuv-zakon|Coulombův zákon]] → [[elektricke-pole|Elektrické pole]] → [[Elektrický potenciál a napětí]]
 - souvisí s: [[Ohmův a Kirchhoffovy zákony]], [[Provozní parametry rezistorů]]
 
 ## Co je kondenzátor

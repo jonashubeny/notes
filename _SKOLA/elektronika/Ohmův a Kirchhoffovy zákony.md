@@ -1,9 +1,9 @@
-- souvisí s: [[El. potenciál a el. napětí]], [[Provozní parametry rezistorů]], [[Kondenzátory]]
+- souvisí s: [[Elektrický potenciál a napětí]], [[Provozní parametry rezistorů]], [[Kondenzátory]]
 
 ## Základní veličiny
 - **Elektrický proud** - tok elektronů vodičem, říká, kolik náboje proteče za určitý čas $I=\frac{Q}{t}$ $[A;\ C;\ s]$
 	- směr proudu se kreslí od **+** k **−**, elektrony ve skutečnosti tečou opačně
-- **Elektrické napětí** - „tlačí“ proud obvodem, je to rozdíl potenciálů mezi dvěma místy (viz [[El. potenciál a el. napětí]]) $[V]$
+- **Elektrické napětí** - „tlačí“ proud obvodem, je to rozdíl potenciálů mezi dvěma místy (viz [[Elektrický potenciál a napětí]]) $[V]$
 - **Elektrický odpor** - jak moc materiál brání průchodu proudu $R=ρ\cdot\frac{l}{S}$ $[Ω]$
 	- **ρ** = rezistivita - vlastnost materiálu (jak dobře vede proud)
 	- **l** = délka vodiče - delší vodič má větší odpor
