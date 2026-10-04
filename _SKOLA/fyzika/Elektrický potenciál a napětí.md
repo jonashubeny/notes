@@ -27,5 +27,15 @@ E = \frac{W}{q} = \frac{0,2}{5\cdot10^{-5}} = 4000V
 $$
 
 2. Při přemístění el. náboje z místa o potenciálu **10V** na místo o potenciálu **60V** byla vykonána práce $2\cdot10^{-4}J$. Určete velikost přemístěného náboje.
-3. Vzdálenost dvou rovnoběžných kovových desek je **12cm**. Určete velikost intenzity el. pole mezi deskami, mezi nimiž bylo naměřeno napětí **600V**.
-4. Mezi dvěma rovnoběžnými deskami ve vzájemné vzdálenosti **2cm** je el. napětí **500V**. V prostoru mezi deskami je častice s nábojem **1μC**. Určete velikost síly, která na částici působí.
+
+$$
+U=U_2-U_1 = 60 -10 = 50V
+$$
+$$
+q=\frac{W}{U}=\frac{2\cdot10^{-4}}{50}=4μC
+$$
+
+2. Vzdálenost dvou rovnoběžných kovových desek je **12cm**. Určete velikost intenzity el. pole mezi deskami, mezi nimiž bylo naměřeno napětí **600V**.
+
+
+3. Mezi dvěma rovnoběžnými deskami ve vzájemné vzdálenosti **2cm** je el. napětí **500V**. V prostoru mezi deskami je častice s nábojem **1μC**. Určete velikost síly, která na částici působí.

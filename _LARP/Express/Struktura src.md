@@ -299,4 +299,4 @@ Pro tenhle projekt bohatě stačí `routes/`, `views/`, `public/`, `uploads/`, `
 
 ---
 
-Související: [[Routy]] · [[Základy]] (SQL) · [[Spouštění a testování]]
+Související: [[Routy]] · [[Základy]] (SQL) · [[Spouštění a testování]] · [[Ansible/Tahák|Ansible tahák]]

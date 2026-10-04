@@ -1,0 +1,1 @@
+1. Jaký el. potenciál má povrch kulového vodiče 

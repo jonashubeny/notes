@@ -18,6 +18,7 @@ pg_isready                              # "server přijímá spojení"
 Postgres běží jako služba na pozadí a **už ho nespouštíš**. Není to jako `npm run dev`.
 
 Opakované `systemctl start` na běžící službě neudělá nic – je to idempotentní.
+(Na stejném principu stojí celý Ansible, viz [[Ansible/Tahák|Ansible tahák]].)
 Dvě instance na stejném portu ani nejdou (`Address already in use`).
 
 ### Role a databáze
