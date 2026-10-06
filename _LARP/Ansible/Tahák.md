@@ -29,21 +29,21 @@ Tři věci, které je dobré vědět hned:
 
 ## 1. Slovníček
 
-| pojem | co to je |
-|---|---|
-| **control node** | počítač, ze kterého Ansible pouštíš (tvůj notebook nebo vyhrazený server) |
-| **managed node / host** | server, který Ansible nastavuje |
-| **inventory** | seznam serverů a skupin, do kterých patří |
-| **modul** | jedna „schopnost" – nainstaluj balík, zkopíruj soubor, restartuj službu |
-| **task** | jedno volání modulu s parametry („nainstaluj nginx") |
-| **play** | „na těchhle serverech proveď tyhle tasky" |
-| **playbook** | soubor s jedním nebo víc playi |
-| **role** | znovupoužitelný balíček tasků, šablon a proměnných s pevnou strukturou složek |
-| **handler** | task, který se pustí jen když ho někdo „zavolá" (typicky restart po změně konfigurace) |
-| **facts** | informace, které si Ansible o serveru zjistí sám (OS, IP, RAM, …) |
-| **šablona (template)** | soubor s dírami `{{ ... }}`, které se vyplní proměnnými |
-| **vault** | zašifrovaný soubor s hesly, který smí do gitu |
-| **collection** | balík modulů a rolí od někoho jiného (`community.docker`, …) |
+| pojem                   | co to je                                                                               |
+| ----------------------- | -------------------------------------------------------------------------------------- |
+| **control node**        | počítač, ze kterého Ansible pouštíš (tvůj notebook nebo vyhrazený server)              |
+| **managed node / host** | server, který Ansible nastavuje                                                        |
+| **inventory**           | seznam serverů a skupin, do kterých patří                                              |
+| **modul**               | jedna „schopnost" – nainstaluj balík, zkopíruj soubor, restartuj službu                |
+| **task**                | jedno volání modulu s parametry („nainstaluj nginx")                                   |
+| **play**                | „na těchhle serverech proveď tyhle tasky"                                              |
+| **playbook**            | soubor s jedním nebo víc playi                                                         |
+| **role**                | znovupoužitelný balíček tasků, šablon a proměnných s pevnou strukturou složek          |
+| **handler**             | task, který se pustí jen když ho někdo „zavolá" (typicky restart po změně konfigurace) |
+| **facts**               | informace, které si Ansible o serveru zjistí sám (OS, IP, RAM, …)                      |
+| **šablona (template)**  | soubor s dírami `{{ ... }}`, které se vyplní proměnnými                                |
+| **vault**               | zašifrovaný soubor s hesly, který smí do gitu                                          |
+| **collection**          | balík modulů a rolí od někoho jiného (`community.docker`, …)                           |
 
 Hierarchie: **playbook → play → task → modul**. Role je jen způsob, jak tasky uklidit.
 
