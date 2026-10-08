@@ -9,6 +9,9 @@ Rozcestník zápisů z elektroniky v pořadí, jak na sebe navazují.
 7. [[Cívky]] - ideální cívka, parametry, konstrukce, reaktance, impedance
 8. [[Transformátor]] - k čemu slouží, konstrukce ideálního transformátoru
 
+## Příprava na test
+- [[Test T1 - otázky a odpovědi]] - otázky z testu T1 vysvětlené pro začátečníky
+
 ## Základ z fyziky
 - [[coulombuv-zakon|Coulombův zákon]]
 - [[elektricke-pole|Elektrické pole]]
