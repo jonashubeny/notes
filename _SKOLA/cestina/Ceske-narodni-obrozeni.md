@@ -1,7 +1,4 @@
 # České národní obrození
-
-## Pojmy (jednoduše)
-
 ### Historie a společnost
 - **Feudalismus** – systém, kde půda patřila šlechtě a poddaní (sedláci) na ni museli pracovat a odvádět dávky
 - **Nevolnictví** – poddaný nesměl bez svolení pána odejít z panství, ženit se ani studovat → byl na pánovi závislý
