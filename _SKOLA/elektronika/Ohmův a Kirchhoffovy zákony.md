@@ -1,4 +1,4 @@
-- souvisí s: [[Elektrický potenciál a napětí]], [[Provozní parametry rezistorů]], [[Kondenzátory]], [[Cívky]]
+- souvisí s: [[Elektrický potenciál a napětí]], [[Provozní parametry rezistorů]], [[Kondenzátory]], [[Cívky]], [[Dioda]], [[Tranzistor]]
 
 ## Základní veličiny
 - **Elektrický proud** - tok elektronů vodičem, říká, kolik náboje proteče za určitý čas $I=\frac{Q}{t}$ $[A;\ C;\ s]$
@@ -25,6 +25,7 @@
 $$I = f(U) \qquad I = G\cdot U \quad [A;\ S;\ V]$$
 $$U = φ(I) \qquad U = R\cdot I \quad [V;\ Ω;\ A]$$
 - grafem závislosti proudu na napětí je **přímka** - dvakrát větší napětí = dvakrát větší proud
+- takovému prvku říkáme **lineární**; opakem je třeba dioda, jejíž graf přímka není: [[Dioda#VA charakteristika - graf diody]]
 - skutečný rezistor se od ideálního liší: [[Provozní parametry rezistorů#Model reálného rezistoru]]
 
 ![[obrazky/prezentace/ohm-kirchhoff/definice-odporu.jpg|450]]

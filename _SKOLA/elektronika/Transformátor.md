@@ -1,4 +1,5 @@
 - navazuje na: [[Cívky]], [[Magnetické pole]]
+- pokračuje v: [[Dioda]] - v napájecím zdroji transformátor sníží napětí a diody ho usměrní
 
 ## Co je transformátor
 - **pasivní elektrické zařízení**

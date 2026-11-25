@@ -1,6 +1,6 @@
 - vychází z fyziky: [[coulombuv-zakon|Coulombův zákon]] → [[elektricke-pole|Elektrické pole]] → [[Elektrický potenciál a napětí]]
 - v elektronice navazuje na: [[Elektrostatické pole]] (náboj, permitivita, odvození kapacity)
-- souvisí s: [[Ohmův a Kirchhoffovy zákony]], [[Provozní parametry rezistorů]], [[Cívky]] (druhý akumulační prvek - v obvodu se chová „opačně“)
+- souvisí s: [[Ohmův a Kirchhoffovy zákony]], [[Provozní parametry rezistorů]], [[Cívky]] (druhý akumulační prvek - v obvodu se chová „opačně“), [[Dioda]] (kondenzátor vyhlazuje usměrněné napětí)
 
 ## Co je kondenzátor
 - součástka, která umí **uchovat elektrický náboj** (energii) - něco jako malá, rychlá „nádrž“ na náboj
@@ -113,7 +113,7 @@ $$\frac{1}{C} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3}$$
 ## Použití kondenzátorů - bonus
 - **keramické** - vysokofrekvenční obvody: vazba a blokování, ladění oscilátorů, filtry, teplotní kompenzace
 - **fóliové (svitkové)** - časování, přesné obvody (A/D převodníky), odrušení, rozběh a chod motorů
-- **elektrolytické** - vyhlazování a filtrace napájení, zdroje a měniče, zálohování (UPS), rozběh motorů
+- **elektrolytické** - vyhlazování a filtrace napájení (za diodovým usměrňovačem, viz [[Dioda#4. Dioda a střídavý proud - usměrňování]]), zdroje a měniče, zálohování (UPS), rozběh motorů
 - oblasti se překrývají - na vazbu, blokování a filtraci šumu se hodí všechny tři
 
 ![[obrazky/prezentace/kondenzatory/pouziti-kondenzatoru.jpg|400]]

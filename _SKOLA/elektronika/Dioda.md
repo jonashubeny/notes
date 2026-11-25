@@ -1,4 +1,5 @@
-- navazuje na: [[Ohmův a Kirchhoffovy zákony]], [[Kondenzátory]] (vyhlazení usměrněného napětí)
+- navazuje na: [[Ohmův a Kirchhoffovy zákony]], [[Kondenzátory]] (vyhlazení usměrněného napětí), [[Transformátor]] (sníží napětí před usměrněním)
+- souvisí s: [[Cívky]] - ochranná dioda u spínané cívky, viz [[Cívky#Cívka a ochranná dioda]]
 - pokračuje v: [[Tranzistor]] - tranzistor jsou vlastně dva PN přechody za sebou
 - přehled všech zápisů: [[Elektronika - přehled]]
 
@@ -69,6 +70,7 @@
 - **− na anodu (P), + na katodu (N)**
 - vnější napětí odtahuje nosiče **od hranice** → ochuzená oblast se **rozšíří**
 - teče jen nepatrný **závěrný proud** (μA, prakticky nic)
+- přesně takhle je zapojená ochranná dioda u cívky relé: [[Cívky#Cívka a ochranná dioda]]
 - když napětí přeženeme přes **průrazné napětí**, přechod se prorazí → obyčejná dioda se zničí (Zenerova dioda toho naopak využívá)
 
 ![[obrazky/polovodice/dioda-propustny-zaverny.svg|700]]

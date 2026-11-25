@@ -1,5 +1,6 @@
 - navazuje na: [[Dioda]] (polovodič P a N, PN přechod) a [[Ohmův a Kirchhoffovy zákony]]
 - přehled všech zápisů: [[Elektronika - přehled]]
+- spínání cívek (relé, motor) potřebuje ochrannou diodu: [[Cívky#Cívka a ochranná dioda]]
 
 > [!summary] Tranzistor v jedné větě
 > **Tranzistor je elektronicky ovládaný ventil** - malý signál na jednom vývodu řídí velký proud mezi dvěma dalšími.

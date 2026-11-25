@@ -1,6 +1,7 @@
 - navazuje na: [[Magnetické pole]] a [[Magnetické pole válcové cívky]] (odkud se bere indukčnost $L$)
 - souvisí s: [[Kondenzátory]] (druhý akumulační prvek - v obvodu se chová „opačně“), [[Ohmův a Kirchhoffovy zákony]]
 - pokračuje v: [[Transformátor]] (dvě cívky na společném jádře)
+- v praxi se potkává s: [[Dioda]] a [[Tranzistor]] - ochranná dioda u spínané cívky, viz [[#Cívka a ochranná dioda]]
 
 ## Ideální cívka
 - cívka je **akumulační obvodový prvek** - má schopnost hromadit a vydat energii (v magnetickém poli)
@@ -49,6 +50,11 @@ $$u = L\cdot\frac{di}{dt}$$
 - proud a napětí jsou posunuté o **90°** - u cívky napětí předbíhá proud (u kondenzátoru předbíhá proud napětí, u rezistoru jsou ve fázi - viz [[Ohmův a Kirchhoffovy zákony#Ohmův zákon]])
 
 ![[obrazky/sesit-vyrezy/civka-fazovy-posun.jpg|500]]
+
+### Cívka a ochranná dioda
+- ze vzorce $u = L\cdot\frac{di}{dt}$ plyne: když proud cívkou **náhle přerušíme** (vypínač, [[Tranzistor|tranzistor jako spínač]]), $\frac{di}{dt}$ je obrovské → na cívce vznikne **napěťová špička** klidně stovky voltů
+- ta by prorazila tranzistor, proto se k cívce (relé, motoru) dává **ochranná (nulová) dioda** paralelně, v **závěrném směru** vůči napájení
+- za provozu dioda nevede, při vypnutí se přes ni proud cívky v klidu „dotočí“ a špička nevznikne - viz [[Dioda#3. Dioda = PN přechod s dvěma vývody]]
 
 ## Impedance
 - skutečná cívka má indukčnost $L$ i odpor vinutí $R$, dohromady tvoří **impedanci**:
